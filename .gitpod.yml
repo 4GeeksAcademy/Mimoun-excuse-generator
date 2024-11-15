@@ -10,5 +10,4 @@ ports:
     visibility: public
 
 vscode:
-  extensions:
-    - esbenp.prettier-vscode
+ 
